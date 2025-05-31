@@ -1,0 +1,14 @@
+C:\Users\gamec\source\repos\DesignPatternsGymSimulation\DesignPatternsGymSimulation\bin\Debug\net8.0\DesignPatternsGymSimulation.exe
+C:\Users\gamec\source\repos\DesignPatternsGymSimulation\DesignPatternsGymSimulation\bin\Debug\net8.0\DesignPatternsGymSimulation.deps.json
+C:\Users\gamec\source\repos\DesignPatternsGymSimulation\DesignPatternsGymSimulation\bin\Debug\net8.0\DesignPatternsGymSimulation.runtimeconfig.json
+C:\Users\gamec\source\repos\DesignPatternsGymSimulation\DesignPatternsGymSimulation\bin\Debug\net8.0\DesignPatternsGymSimulation.dll
+C:\Users\gamec\source\repos\DesignPatternsGymSimulation\DesignPatternsGymSimulation\bin\Debug\net8.0\DesignPatternsGymSimulation.pdb
+C:\Users\gamec\source\repos\DesignPatternsGymSimulation\DesignPatternsGymSimulation\obj\Debug\net8.0\DesignPatternsGymSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamec\source\repos\DesignPatternsGymSimulation\DesignPatternsGymSimulation\obj\Debug\net8.0\DesignPatternsGymSimulation.AssemblyInfoInputs.cache
+C:\Users\gamec\source\repos\DesignPatternsGymSimulation\DesignPatternsGymSimulation\obj\Debug\net8.0\DesignPatternsGymSimulation.AssemblyInfo.cs
+C:\Users\gamec\source\repos\DesignPatternsGymSimulation\DesignPatternsGymSimulation\obj\Debug\net8.0\DesignPatternsGymSimulation.csproj.CoreCompileInputs.cache
+C:\Users\gamec\source\repos\DesignPatternsGymSimulation\DesignPatternsGymSimulation\obj\Debug\net8.0\DesignPatternsGymSimulation.dll
+C:\Users\gamec\source\repos\DesignPatternsGymSimulation\DesignPatternsGymSimulation\obj\Debug\net8.0\refint\DesignPatternsGymSimulation.dll
+C:\Users\gamec\source\repos\DesignPatternsGymSimulation\DesignPatternsGymSimulation\obj\Debug\net8.0\DesignPatternsGymSimulation.pdb
+C:\Users\gamec\source\repos\DesignPatternsGymSimulation\DesignPatternsGymSimulation\obj\Debug\net8.0\DesignPatternsGymSimulation.genruntimeconfig.cache
+C:\Users\gamec\source\repos\DesignPatternsGymSimulation\DesignPatternsGymSimulation\obj\Debug\net8.0\ref\DesignPatternsGymSimulation.dll
